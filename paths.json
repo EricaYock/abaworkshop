@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/abaworkshop/language-masters/en:/",
-    "/content/abaworkshop/language-masters/en/:/en/",
-    "/content/abaworkshop/language-masters/fr/:/fr/",
-    "/content/abaworkshop/language-masters/fr:/fr",
-    "/content/abaworkshop/language-masters/es/:/es/",
-    "/content/abaworkshop/language-masters/es:/es",
-    "/content/abaworkshop/language-masters/ja/:/ja/",
-    "/content/abaworkshop/language-masters/ja:/ja",
-    "/content/abaworkshop/language-masters/de/:/de/",
-    "/content/abaworkshop/language-masters/de:/de",
-    "/content/abaworkshop/configuration:/.helix/config.json",
-    "/content/abaworkshop/metadata:/metadata.json",
-    "/content/abaworkshop/redirects:/redirects.json",
-    "/content/abaworkshop/placeholders:/placeholders.json"
+    "/content/charlie/language-masters/en:/",
+    "/content/charlie/language-masters/en/:/en/",
+    "/content/charlie/language-masters/fr/:/fr/",
+    "/content/charlie/language-masters/fr:/fr",
+    "/content/charlie/language-masters/es/:/es/",
+    "/content/charlie/language-masters/es:/es",
+    "/content/charlie/language-masters/ja/:/ja/",
+    "/content/charlie/language-masters/ja:/ja",
+    "/content/charlie/language-masters/de/:/de/",
+    "/content/charlie/language-masters/de:/de",
+    "/content/charlie/configuration:/.helix/config.json",
+    "/content/charlie/metadata:/metadata.json",
+    "/content/charlie/redirects:/redirects.json",
+    "/content/charlie/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/abaworkshop/",
-    "/content/dam/abaworkshop/"
+    "/content/charlie/",
+    "/content/dam/charlie/"
   ]
 }
