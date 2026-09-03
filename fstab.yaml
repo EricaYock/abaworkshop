@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p220457-e2272053.adobeaemcloud.com/bin/franklin.delivery/EricaYock/abaworkshop/main"
+    url: "https://author-p220457-e2272053.adobeaemcloud.com/bin/franklin.delivery/EricaYock/abaworkshop/charlie"
     type: "markup"
     suffix: ".html"
